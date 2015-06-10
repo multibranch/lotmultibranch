@@ -5,3 +5,5 @@ surinthorn :  I give always all
 cherntor :  Are you sure?
 
 surinthorn : Yes, I'm sure
+
+สมมุติ มีการแก้ไขไฟล์นี้
